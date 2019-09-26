@@ -10,5 +10,5 @@ package gestionUsuarios;
  * @author jarmando.rios
  */
 public class Administrador {
-    
+    int hpta;
 }
